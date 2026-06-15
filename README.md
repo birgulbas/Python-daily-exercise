@@ -1,0 +1,1 @@
+Python practice projects while learning OOP and FastAPI development.

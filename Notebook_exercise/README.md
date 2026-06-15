@@ -1,0 +1,1 @@
+**This application will be a simple notepad where users can save, view, and delete notes.**
